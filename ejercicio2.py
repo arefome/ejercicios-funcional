@@ -10,5 +10,5 @@ def multiplos(lista):
     return [[int(n)*3 for n in lista[0]]] + multiplos(lista[1:])
 
 
-print(multiplos(dividir_lista([10,10,10])))
+print(multiplos(dividir_lista([143,12,1290])))
 
