@@ -1,4 +1,4 @@
 # ejercicios-funcional
 ---
-Ejercicios practicos programacion funcinal.
+Ejercicios practicos programacion funcional.
 - Ariel Ernesto Forero Meneses - 20181020135
